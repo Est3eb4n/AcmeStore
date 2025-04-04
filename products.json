@@ -1,0 +1,27 @@
+[
+    {
+        "code":"2-0023-D",
+        "name":"Teclado Inalambrico",
+        "price": 30
+    },
+    {
+        "code":"4-0023-D",
+        "name":"Cable red UTP RJ45",
+        "price": 5
+    },
+    {
+        "code":"2-0023-D",
+        "name":"Cámara web USB",
+        "price": 20
+    },
+    {
+        "code":"4-0023-D",
+        "name":"Auriculares inalámbricos",
+        "price": 59
+    },
+    {
+        "code":"2-0023-D",
+        "name":"Mini Adaptador USB-C USB 2.0",
+        "price": 7
+    }
+]
